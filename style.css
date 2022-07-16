@@ -6,7 +6,7 @@ html{
 
 body{
     margin: 0;
-    background: #45badd;
+    background: #a6a6a6;
 }
 
 .container{
@@ -29,10 +29,10 @@ button {
     font-family: 'Courier New',Courier,monospace;
     font-size: 20px;
     color: white;
-    background: #ff3482;
+    background: #348feb;
     border: none;
     border-radius: 5px;
-    box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 2px 20px 10px rgba(158, 155, 155, 0.2);
 }
 
 button:hover{
